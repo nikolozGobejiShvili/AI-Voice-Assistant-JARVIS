@@ -1,6 +1,6 @@
 # AI Voice Assistant JARVIS
 
-![AI Voice Assistant JARVIS](assistant.jpg)
+
 
 AI Voice Assistant JARVIS is a Python script (`jarvis.py`) that implements a voice-controlled assistant capable of performing various tasks using voice commands. JARVIS can interact with several APIs and services to provide information, play music, and generate text responses using OpenAI's GPT-3.
 
